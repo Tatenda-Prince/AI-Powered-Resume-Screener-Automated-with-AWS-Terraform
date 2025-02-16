@@ -45,3 +45,30 @@ This project automates the HR recruitment process by using AWS AI services to an
 3.Languages: Python (Lambda functions)
 
 4.Testing: AWS CLI
+
+
+## Prerequisites
+
+1.Personal AWS account with basic understanding of AWS and Python
+
+2.AWS CLI configured with the required permissions
+
+3.Terraform installed on your local machine
+
+
+## Step 1: Clone the Repository
+
+1.1.Clone this repository to your local machine
+
+```python
+
+git clone 
+
+```
+
+
+
+
+
+
+
