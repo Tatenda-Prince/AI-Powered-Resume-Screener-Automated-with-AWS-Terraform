@@ -60,7 +60,7 @@ This project automates the HR recruitment process by using AWS AI services to an
 
 1.1.Clone this repository to your local machine
 
-```python
+```language
 git clone https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform.git
 
 ```
