@@ -146,7 +146,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.3.In the AWS Management Console, head to the Amazon S3 dashboard and verify that the Resume Screener bucket was successfully created
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/6a7523717c39a7bc1bdd923935c7b9184dec171a/img/Screenshot%202025-02-16%20204955.png)
 
 
 ## Step 4: Lets Test Our System to check if it working
