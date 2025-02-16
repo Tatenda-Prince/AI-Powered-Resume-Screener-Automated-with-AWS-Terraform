@@ -194,6 +194,11 @@ Terraform destroy
 3.Email notifications for recruiters when a match is found.
 
 
+## Congratulations
+
+We have successfully created "AI-Powered Resume Screening System" that automates the recruitment process by leveraging AWS AI services. It enhances efficiency by extracting, analyzing, and storing candidate information with minimal manual effort. The system improves resume screening accuracy, reduces hiring time, and ensures that recruiters focus on the most relevant candidates. Additionally, the use of serverless AWS architecture makes the solution scalable, cost-effective, and reliable.
+
+
 
 
 
