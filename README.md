@@ -102,7 +102,7 @@ Terraform plan
 
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/fad3bb31fb9e1848ff22819f325e55287af243c8/img/Screenshot%202025-02-16%20203405.png)
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
