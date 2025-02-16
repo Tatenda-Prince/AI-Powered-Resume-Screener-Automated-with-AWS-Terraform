@@ -121,7 +121,7 @@ Terraform apply
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/9db4af2d48a621cebbd3a3cea5e4203f90b9c9a2/img/Screenshot%202025-02-16%20203621.png)
 
 
 ## Success!
