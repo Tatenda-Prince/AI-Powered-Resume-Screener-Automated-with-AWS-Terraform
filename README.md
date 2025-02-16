@@ -61,7 +61,6 @@ This project automates the HR recruitment process by using AWS AI services to an
 1.1.Clone this repository to your local machine
 
 ```python
-
 git clone https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform.git
 
 ```
@@ -71,7 +70,9 @@ git clone https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated
 2.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
 ```json
+
 Terraform init
+
 ```
 
 ![image_alt]()
@@ -83,7 +84,9 @@ Upon completion of the initialization process, a successful prompt will be displ
 2.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
 
 ```json
+
 Terraform validate
+
 ```
 
 The command should generate a success message, confirming that it is valid, as demonstrated below.
@@ -94,7 +97,9 @@ The command should generate a success message, confirming that it is valid, as d
 
 
 ```json
+
 Terraform plan
+
 ```
 
 ![image_alt]()
@@ -108,7 +113,9 @@ Note — Make sure to type “yes” to agree to the changes after running this 
 
 
 ```json
+
 Terraform apply
+
 ```
 
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
@@ -120,6 +127,7 @@ Terraform will initiate the process of applying all the changes to the infrastru
 ## Success!
 
 The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
+
 
 ![image_alt]()
 
