@@ -75,7 +75,7 @@ Terraform init
 
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/13137591852601f834fb477da5d85204830d5206/img/Screenshot%202025-02-16%20203301.png)
 
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
