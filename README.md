@@ -175,7 +175,7 @@ Here is the Output in the AWS Console
 
 4.3.Check DynamoDB for Extracted Data
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/eeb4b5c22b1eb510483521fd60909cbf73b8ac3f/img/Screenshot%202025-02-16%20212658.png)
 
 
 ## Cleanup
