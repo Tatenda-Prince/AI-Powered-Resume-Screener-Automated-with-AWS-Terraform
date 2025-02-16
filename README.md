@@ -159,7 +159,7 @@ aws s3 cp sample_resume.pdf s3://your-s3-bucket-name/
 
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/3b910dcd73e06e7c7a3508fc542129b6377964b4/img/Screenshot%202025-02-16%20212421.png)
 
 
 Here is the Output in the AWS Console
