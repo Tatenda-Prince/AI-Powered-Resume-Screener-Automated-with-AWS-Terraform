@@ -165,7 +165,7 @@ aws s3 cp sample_resume.pdf s3://your-s3-bucket-name/
 Here is the Output in the AWS Console
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/c6ddb9f7a61c9ee239cbd3b306258b2755c7d63b/img/Screenshot%202025-02-16%20212447.png)
 
 
 4.2.Check Logs in CloudWatch
