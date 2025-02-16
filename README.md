@@ -170,7 +170,7 @@ Here is the Output in the AWS Console
 
 4.2.Check Logs in CloudWatch
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/526e0bedf53bbb6dbb31798506a6f33455ac268f/img/Screenshot%202025-02-16%20212600.png)
 
 
 4.3.Check DynamoDB for Extracted Data
