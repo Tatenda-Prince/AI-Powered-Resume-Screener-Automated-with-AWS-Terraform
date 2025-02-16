@@ -134,6 +134,35 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 ## Step 3: Verify creation of AWS Lambda, Amazon S3 and DynamoDB
 
+3.1.In the AWS Management Console, head to the Amazon Lambda dashboard and verify that the Resume Screener function was successfully created
+
+![image_alt]()
+
+
+3.2.In the AWS Management Console, head to the Amazon DynamoDB dashboard and verify that the Resume Screener Table was successfully created
+
+![image_alt]()
+
+
+3.3.In the AWS Management Console, head to the Amazon S3 dashboard and verify that the Resume Screener bucket was successfully created
+
+![image_alt]()
+
+
+## Step 4: Lets Test Our System to check if it working
+
+4.1. Upload a Sample Resume to S3
+
+```json
+
+aws s3 cp sample_resume.pdf s3://your-s3-bucket-name/
+
+```
+
+
+
+
+
 
 
 
