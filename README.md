@@ -69,7 +69,7 @@ git clone https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated
 
 2.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
-```json
+```language
 
 Terraform init
 
@@ -83,7 +83,7 @@ Upon completion of the initialization process, a successful prompt will be displ
 
 2.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
 
-```json
+```language
 
 Terraform validate
 
@@ -96,7 +96,7 @@ The command should generate a success message, confirming that it is valid, as d
 2.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
 
 
-```json
+```language
 
 Terraform plan
 
@@ -112,7 +112,7 @@ The list of changes that Terraform is anticipated to apply to the infrastructure
 Note — Make sure to type “yes” to agree to the changes after running this command
 
 
-```json
+```language
 
 Terraform apply
 
@@ -153,7 +153,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 4.1.Upload a Sample Resume to S3
 
-```json
+```language
 
 aws s3 cp sample_resume.pdf s3://your-s3-bucket-name/
 
@@ -180,7 +180,7 @@ Here is the Output in the AWS Console
 
 ## Cleanup
 
-```json
+```language
 Terraform destroy
 ```
 
