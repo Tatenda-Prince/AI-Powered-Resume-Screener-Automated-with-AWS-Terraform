@@ -91,7 +91,7 @@ Terraform validate
 
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/fde661d4e2e2639aaa061d50bd28f55859ba2372/img/Screenshot%202025-02-16%20203327.png)
 
 2.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
 
