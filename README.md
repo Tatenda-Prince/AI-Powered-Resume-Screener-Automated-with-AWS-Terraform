@@ -129,7 +129,7 @@ Terraform will initiate the process of applying all the changes to the infrastru
 The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/a65dc0dc27d848b159ba7a0b06336eef5f9984b8/img/Screenshot%202025-02-16%20203648.png)
 
 
 ## Step 3: Verify creation of AWS Lambda, Amazon S3 and DynamoDB
