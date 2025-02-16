@@ -141,7 +141,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.2.In the AWS Management Console, head to the Amazon DynamoDB dashboard and verify that the Resume Screener Table was successfully created
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/502f5f1ed7ba555b47cd1f8df839158afda3c77c/img/Screenshot%202025-02-16%20205049.png)
 
 
 3.3.In the AWS Management Console, head to the Amazon S3 dashboard and verify that the Resume Screener bucket was successfully created
