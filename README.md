@@ -151,13 +151,52 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 ## Step 4: Lets Test Our System to check if it working
 
-4.1. Upload a Sample Resume to S3
+4.1.Upload a Sample Resume to S3
 
 ```json
 
 aws s3 cp sample_resume.pdf s3://your-s3-bucket-name/
 
 ```
+
+![image_alt]()
+
+
+Here is the Output in the AWS Console
+
+
+![image_alt]()
+
+
+4.2.Check Logs in CloudWatch
+
+![image_alt]()
+
+
+4.3.Check DynamoDB for Extracted Data
+
+![image_alt]()
+
+
+## Cleanup
+
+```json
+Terraform destroy
+```
+
+
+## Future Enhancements
+
+1.API Gateway & Frontend UI for recruiters.
+
+2.Advanced NLP models for better skill extraction.
+
+3.Email notifications for recruiters when a match is found.
+
+
+
+
+
 
 
 
