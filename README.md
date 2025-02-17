@@ -4,7 +4,7 @@
 
 # Technical Architecture
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Resume-Screener-Automated-with-AWS-Terraform/blob/961b0135284bec752fc3d319b1c75d403efeaeef/img/Screenshot%202025-02-17%20133318.png)
 
 ## Project Overview
 
